@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OAuthExample5_4_6</string>
+    <string name= "enter"> Войти </string>>
+    <string name="action_settings">Settings</string>
+</resources>
